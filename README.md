@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on Advarserial Attacks on Reinforcement Learning Policies and Graph Neural Network for Media Forencics.
 - 🌱 I’m currently learning Reinforcement Learning and Graph Models.
 - 👯 I’m looking to collaborate on Graph Models.
